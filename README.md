@@ -12,8 +12,8 @@ Minimal Latency: Optimized for smooth playback.
 Error Handling: Displays meaningful messages when streaming issues occur
 
 DEPENDENCIES:
-Media3 ExoPlayer for RTSP streaming
-Material Components for modern UI elements
+-Media3 ExoPlayer for RTSP streaming
+-Material Components for modern UI elements
 
 HOW TO SET UP :
 Clone the Repository
