@@ -34,7 +34,7 @@ Press Pause to stop streaming.
 CHALLENGES FACED and SOLUTIONS :
 
 1.Finding Valid RTSP Streaming Links :
-- I surfed over the entire internet , github etc to find some valid and working RTSP links but after hours(most time consuming part of the project) of findig a working one but was not able to find one even after hours. I fund sme links but there was no output in those links.
+- I surfed over the entire internet , github etc to find some valid and working RTSP links but after hours(most time consuming part of the project) of findig a working one but was not able to find one. I found some links but there was no output in those links.
   
 SOLUTION:
 - Creatd my own RTSP Streaming link using VLC media player
