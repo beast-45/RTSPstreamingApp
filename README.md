@@ -66,7 +66,7 @@ Open Command Prompt or Terminal and run:
 
 PLAY THE STREAM : 
 -Open VLC  or this App on android device  (VLC to check if stream is working)
--IN VLC ,Go to Media > Open Network Stream. OR in this app , directly enter the RTSP URL
+-IN VLC ,Go to Media > Open Network Stream --OR-- in this app , directly enter the RTSP URL
 
 The URL will look like : 
 rtsp://<your-ip>:8554/stream
