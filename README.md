@@ -69,7 +69,7 @@ PLAY THE STREAM :
 -IN VLC ,Go to Media > Open Network Stream --OR-- in this app , directly enter the RTSP URL
 
 The URL will look like : 
-rtsp://<your-ip>:8554/stream
+rtsp://your-ip:8554/stream
 
 To get ip of your computer : 
 -open command prompt and run the command:
